@@ -1,4 +1,4 @@
-console.log("Cześć Wtam")
+console.log("Cześć Wtam ten kod jest już w repozytorium git" )
 
 let button0 = document.querySelector(".button0");
 let header = document.querySelector(".header");
